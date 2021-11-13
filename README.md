@@ -1,7 +1,6 @@
-# API-Peliculas
-API Fetch con la de películas usando async / await
-
 ![](img/film-api.gif)
+# API Peliculas
+API Fetch con la de películas usando async / await
 
 He usado la API de themoviedb.org para realizar este proyecto.
 
